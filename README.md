@@ -1,16 +1,8 @@
 # flutter_demo_login
 
-A new Flutter project.
+[![Video Thumbnail](URL_OF_THE_THUMBNAIL_IMAGE)](https://github.com/chaichate/flutter_demo_login/blob/main/Simulator-2023-10-09.mp4)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+authentication_repository, view our
+- [authentication_repository](https://github.com/chaichate/flutter_demo_login/tree/main/packages/authentication_repository)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
